@@ -13,7 +13,20 @@ Dive into the latest updates, see key metrics, and watch the demo video right he
 
 ##  Live Preview Video
 
-```markdown
 <video src="video.mp4" width="640" controls>
 Your browser does not support the video tag.
-</video>```
+</video>
+
+---
+
+##  Preview Image
+
+![Preview](preview.png)
+
+---
+
+##  TikTok Demo
+
+▶️ [Watch on TikTok](https://www.tiktok.com/@relational_throne/video/7544421326967098655)
+
+---
