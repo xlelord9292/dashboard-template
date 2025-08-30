@@ -11,6 +11,12 @@ Dive into the latest updates, see key metrics, and watch the demo video right he
 
 ---
 
+## Live Preview
+
+[![Preview](preview.png)](https://www.tiktok.com/@relational_throne/video/7544421326967098655)
+
+---
+
 ## TikTok Demo Link
 
 ▶️ [Watch on TikTok](https://www.tiktok.com/@relational_throne/video/7544421326967098655)
