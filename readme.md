@@ -1,31 +1,26 @@
-#  Project Dashboard
+# Project Dashboard
 
 Welcome to the **Project Dashboard**!  
 Dive into the latest updates, see key metrics, and watch the demo video right here.
 
 ---
 
-##  Overview
+## Overview
 
 - **Last Updated**: 2025-08-30
 
 ---
 
-##  Live Preview Video
+## Live Preview Video
 
-<video src="video.mp4" width="640" controls>
-Your browser does not support the video tag.
-</video>
+Since GitHub doesn’t allow large MP4 playback or TikTok embeds,  
+click the preview image below to watch the demo on TikTok:
 
----
-
-##  Preview Image
-
-![Preview](preview.png)
+[![Preview](preview.png)](https://www.tiktok.com/@relational_throne/video/7544421326967098655)
 
 ---
 
-##  TikTok Demo
+## TikTok Demo Link
 
 ▶️ [Watch on TikTok](https://www.tiktok.com/@relational_throne/video/7544421326967098655)
 
